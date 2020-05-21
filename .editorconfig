@@ -1,0 +1,24 @@
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file and charset set to utf-8
+[*]
+end_of_line = lf
+insert_final_newline = true
+charset = utf-8
+
+# PHP
+[*.php]
+indent_style = space
+indent_size = 4
+
+# CSS, scss, and js
+[*{.css,.scss,.js}]
+indent_style = space
+indent_size = 2
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.{yml,yaml}]
+indent_size = 2
