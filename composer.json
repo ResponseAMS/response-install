@@ -26,6 +26,12 @@
     "rss": "https://responseams.com/api/releases.json",
     "chat": "https://resposeams.com/discord"
   },
+  "repositories": {
+    "core": {
+      "type": "path",
+      "url": "../core"
+    }
+  },
   "require": {
     "php": "^7.2.5",
     "fideloper/proxy": "4.3.0",
