@@ -28,8 +28,8 @@
   },
   "repositories": {
     "core": {
-      "type": "path",
-      "url": "../core"
+      "type": "vcs",
+      "url": "git@github.com:responseams/core.git"
     }
   },
   "require": {
@@ -66,8 +66,7 @@
       "Modules\\": "modules/"
     },
     "classmap": [
-      "database/seeds",
-      "database/factories"
+      "database"
     ]
   },
   "autoload-dev": {
