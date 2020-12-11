@@ -45,7 +45,7 @@
   },
   "require-dev": {
     "facade/ignition": "2.0.4",
-    "fzaninotto/faker": "1.9.1",
+    "fzaninotto/faker": "1.9.2",
     "mockery/mockery": "1.4.0",
     "nunomaduro/collision": "4.2.0",
     "phpunit/phpunit": "9.1.4"
