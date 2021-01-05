@@ -40,7 +40,7 @@
     "laravel/framework": "7.12.0",
     "laravel/tinker": "2.4.0",
     "predis/predis": "1.1.1",
-    "pusher/pusher-php-server": "4.1.4",
+    "pusher/pusher-php-server": "4.1.5",
     "responseams/core": "dev-master"
   },
   "require-dev": {
