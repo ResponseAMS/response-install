@@ -44,7 +44,7 @@
     "responseams/core": "dev-master"
   },
   "require-dev": {
-    "facade/ignition": "2.0.4",
+    "facade/ignition": "2.15.0",
     "fzaninotto/faker": "1.9.1",
     "mockery/mockery": "1.4.0",
     "nunomaduro/collision": "4.2.0",
